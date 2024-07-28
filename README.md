@@ -18,7 +18,6 @@
 
 ## ⭐ GitHub Status ⭐
 ![JULIE222222's github stats](https://github-readme-stats.vercel.app/api?username=JULIE222222&show_icons=true)
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
 <!--
 **JULIE222222/JULIE222222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
