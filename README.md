@@ -1,4 +1,6 @@
-## 🌱 STACKS 🌱
+<div align=center> 
+
+## 🌱 Tech Stack 🌱
 
 <!--![js](httphttps://github.com/JULIE222222/JULIE222222/tree/mains://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)-->
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,3 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+</div>
