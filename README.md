@@ -1,7 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome!!!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=Welcome!!!&fontSize=90)
 
 <div align=center> 
+
+  
 ## 🌱 Tech Stack 🌱
 
 <!--![js](httphttps://github.com/JULIE222222/JULIE222222/tree/mains://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)-->
