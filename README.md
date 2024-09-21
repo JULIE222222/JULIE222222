@@ -16,8 +16,6 @@
 
 ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![js](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJULIE222222%2FJULIE222222&count_bg=%239FC5FF&title_bg=%239C9C9C&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=true)](https://hits.seeyoufarm.com)-->
